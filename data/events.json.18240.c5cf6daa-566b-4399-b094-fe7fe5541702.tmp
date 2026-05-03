@@ -1,0 +1,18 @@
+[
+  {
+    "id": "evt_legacy_import",
+    "name": "Importacao inicial",
+    "slug": "importacao-inicial",
+    "createdAt": "2026-05-02T12:00:00.000Z",
+    "coverImage": "",
+    "videosCount": 5
+  },
+  {
+    "id": "evt_0rji5ma",
+    "name": "Olivia 15 anos",
+    "slug": "olivia-15-anos",
+    "createdAt": "2026-05-02T21:42:58.239Z",
+    "coverImage": "",
+    "videosCount": 0
+  }
+]

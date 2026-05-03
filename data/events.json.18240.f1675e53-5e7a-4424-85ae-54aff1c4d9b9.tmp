@@ -1,0 +1,20 @@
+[
+  {
+    "id": "evt_a5ld1mu",
+    "name": "Diego 40",
+    "slug": "diego-40",
+    "createdAt": "2026-05-02T22:53:39.699Z",
+    "coverImage": "",
+    "videosCount": 7,
+    "uploadToken": "up_yr0nW5PqpT76Pf3StmHSymSg"
+  },
+  {
+    "id": "evt_9hs5sal",
+    "name": "Diego 50",
+    "slug": "diego-50",
+    "createdAt": "2026-05-02T23:11:47.465Z",
+    "coverImage": "",
+    "videosCount": 2,
+    "uploadToken": "up_Oea-264ld7p_4VBrKaLiV0aH"
+  }
+]
